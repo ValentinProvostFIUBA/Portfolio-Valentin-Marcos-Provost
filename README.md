@@ -1,6 +1,6 @@
 # Valentín Provost — Portfolio
 
-Estudiante de Ingeniería Informática en FIUBA (3er año). Busco mi primera experiencia laboral en el sector tech. Manejo de sistemas de bajo nivel, desarrollo full stack y arquitecturas concurrentes.
+Estudiante de Ingeniería Informática en FIUBA (3er año).  Actualmente estoy en la búsqueda de mi primera experiencia laboral para crecer profesionalmente. Me caracterizo por la proactividad, el entusiasmo y la adaptabilidad, con disposición a aprender y aportar valor .
 
 📧 valentinprovost1@gmail.com | Buenos Aires, Argentina
 
