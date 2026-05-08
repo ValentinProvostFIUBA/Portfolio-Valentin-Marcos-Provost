@@ -3,6 +3,7 @@
 Estudiante de Ingeniería Informática en FIUBA (3er año).  Actualmente estoy en la búsqueda de mi primera experiencia laboral para crecer profesionalmente. Me caracterizo por la proactividad, el entusiasmo y la adaptabilidad, con disposición a aprender y aportar valor .
 
 📧 valentinprovost1@gmail.com | Buenos Aires, Argentina
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-marcos-provost) | linkedin
 
 ---
 
