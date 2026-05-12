@@ -26,9 +26,7 @@ Aplicación full stack con dos roles: cliente (menú, pedido, pago y estado en t
 
 Juego de carreras con múltiples jugadores y partidas simultáneas. Arquitectura cliente/servidor, threads y motor físico Box2D.
 
-**Stack:** C++ · Box2D
-
-📁 *Privado — próximamente disponible*
+**Stack:** C++ · Box2D 🔗 [Ver repositorio](https://github.com/nicolascardone/TP-Taller-G7/tree/develop)
 
 ---
 
