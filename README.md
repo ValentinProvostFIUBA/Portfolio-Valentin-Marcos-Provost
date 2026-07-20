@@ -48,7 +48,7 @@ Transferencia de archivos con arquitectura cliente/servidor sobre UDP. Implement
 
 Implementación del juego de cartas GWENT aplicando patrones de diseño orientados a objetos.
 
-**Stack:** Java | 📁 *Privado — próximamente disponible*
+**Stack:** Java | 📁 *Privado*
 
 ---
 
@@ -57,7 +57,7 @@ Implementación del juego de cartas GWENT aplicando patrones de diseño orientad
 
 Variante de ajedrez con reglas extendidas, implementada con patrones de diseño orientados a objetos.
 
-**Stack:** Java | 📁 *Privado — próximamente disponible*
+**Stack:** Java | 📁 *Privado — solicitar acceso*
 
 ---
 
@@ -66,7 +66,7 @@ Variante de ajedrez con reglas extendidas, implementada con patrones de diseño 
 
 Tres trabajos prácticos en C: intérprete de comandos (shell), mecanismo de cambio de contexto con scheduler de procesos, y creación de un filesystem propio.
 
-**Stack:** C | 📁 *Privados — próximamente disponibles*
+**Stack:** C | 📁 *Privados*
 
 ---
 
