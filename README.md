@@ -43,6 +43,7 @@ Transferencia de archivos con arquitectura cliente/servidor sobre UDP. Implement
 
 ### 🌐 SDN NAT — Traducción de direcciones con POX
 > Redes
+
 Implementación de un NAT saliente con traducción por puertos (PAT) sobre una arquitectura SDN, usando POX como controlador y Mininet para emular la topología de red. Partiendo de un controlador base que solo reescribía MACs, se extendió la lógica para soportar resolución de direcciones, traducción IP y múltiples hosts compartiendo una única IP pública sobre TCP y UDP.
 **Stack:** Python
 📁 *Privado — solicitar acceso*
@@ -51,6 +52,7 @@ Implementación de un NAT saliente con traducción por puertos (PAT) sobre una a
 
 ### 🚲 RustBikes — Sistema de bicicletas compartidas distribuido
 > Programación Concurrente
+
 Sistema distribuido que modela estaciones y usuarios para el alquiler de bicicletas. Administradores replicados con elección de líder (estilo Bully), coordinación de retiros/devoluciones vía 2PC contra un banco simulado, y estaciones con soporte de operación offline y sincronización posterior.
 **Stack:** Rust
 📁 *Privado*
@@ -59,6 +61,7 @@ Sistema distribuido que modela estaciones y usuarios para el alquiler de bicicle
 
 ### 🏢 CuentasClaras — Gestión de gastos comunes
 > Gestión del Desarrollo de Sistemas Informáticos
+
 Aplicación web para la gestión autogestionada de gastos comunes en consorcios y casas familiares, sin figura de administrador profesional. Incluye invitaciones por código, división proporcional de gastos por peso (m²), validación de comprobantes de pago y gestión automatizada de mora con scheduler diario.
 **Stack:** React · TypeScript · Java · Spring Boot · PostgreSQL
 📁 *Privado*
